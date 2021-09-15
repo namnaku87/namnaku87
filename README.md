@@ -1,3 +1,6 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=namnaku87&label=Profile%20views&color=0e75b6&style=flat" alt="namnaku87" /> </p>
+
+
 - 👋 Hi, I’m @namnaku87
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
