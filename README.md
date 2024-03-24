@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Nam-Naku">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=923DFF&center=true&width=635&lines=Matthew+McAteer" alt="Matthew McAteer" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Nam+Naku" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
